@@ -16,3 +16,5 @@ Here are my projects for public access
 
 ![image](https://user-images.githubusercontent.com/79115345/221495189-beec9dfb-415a-4709-9ce9-1358e1653baa.png)
 
+3. ОМР - простенький блокнот для визуализации графиков
+![image](https://user-images.githubusercontent.com/79115345/221506076-a7f07977-47c5-4e6c-b32d-91dbcf48ff64.png)
